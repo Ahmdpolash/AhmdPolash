@@ -44,7 +44,7 @@ Email : ahmedpolash732@gmail.com
 
 
 #### News Portal Website - [Live link]([Title](https://newspaper-website-f1698.web.app/))
-- This is News Portal Project , where user can Read articles and if want they can post articles , and have admin role.
+- This is News Portal Project , where user can Read articles. here have normal article and premium article, and if user want they can post articles, and have admin role.
 #### Technologies : 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,firebase,mongodb,nodejs,expressj,)](https://skillicons.dev)
 
