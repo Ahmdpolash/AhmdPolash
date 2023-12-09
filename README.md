@@ -4,18 +4,22 @@
 
 ### About Me
 
-I'm Polash Ahmed from Kurigram Zila, Currently studying computer engineering at Kurigram Polytechnic Institute. I'm passionate about becoming a full-stack developer and actively working towards it.
+I'm Polash Ahmed from Kurigram Zila, Currently I'm Studying on Diploma in Computer Engineering at Kurigram Polytechnic Institute,Kurigram. I'm passionate about becoming a full-Stack developer and actively working towards it.
+
+### My Experience
+
+I Specialize in creating attractive and user-friendly websites as a front-end developer, mainly using the MERN stack. Currently, I'm diving into learning Next.js and Redux to improve my skills further. Feel free to explore my GitHub profile to see the projects I've been working on and how I'm pushing the boundaries of innovation in web development.
 
 ### Connect with me
+
 Email : ahmedpolash732@gmail.com
 
 <p align="center">
 
- <a href="https://fb.com/https://www.facebook.com/mdpolash.babu.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdpolash.babu.94" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/polash-ahmed-9179a12a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/polash-ahmed-9179a12a3/" height="30" width="40" /></a>
-  
-</p>
+<a href="https://fb.com/https://www.facebook.com/mdpolash.babu.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdpolash.babu.94" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/polash-ahmed-9179a12a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/polash-ahmed-9179a12a3/" height="30" width="40" /></a>
 
+</p>
 
 ### Technologies and Tools
 
