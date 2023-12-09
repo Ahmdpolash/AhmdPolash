@@ -1,7 +1,6 @@
 
 
-<!-- ![Rakibul Islam!](![Alt text](https://raw.githubusercontent.com/Ahmdpolash/AhmdPolash/main/assest/Polash%20Ahmed.png)"Rakibul Islam") -->
-
+![Alt text](https://raw.githubusercontent.com/Ahmdpolash/AhmdPolash/main/assest/Screenshot_15.png)
 ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
