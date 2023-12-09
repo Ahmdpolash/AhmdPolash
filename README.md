@@ -24,7 +24,7 @@ I'm Polash Ahmed, a passionate frontend developer with a love for crafting seaml
 
 <div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmdpolash&theme=algolia&width=400)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmdpolash&theme=algolia&width=400)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmdpolash&theme=algolia&width=435)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmdpolash&theme=algolia&width=435)
 
 </div>
