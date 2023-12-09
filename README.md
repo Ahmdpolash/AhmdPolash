@@ -35,3 +35,16 @@ Email : ahmedpolash732@gmail.com
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmdpolash&theme=algolia&width=435)
 
 </div>
+
+### About My Pin Projects : 
+#### House Service Agency - [Live link](https://bistro-boss-72c4d.web.app/)
+- This is House Service Agency Project , where user can book there any service and the agency will provide this service. here have many feature please see the live link
+#### Technologies : 
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,firebase,mongodb,nodejs,expressj,)](https://skillicons.dev)
+
+
+#### News Portal Website - [Live link]([Title](https://newspaper-website-f1698.web.app/))
+- This is News Portal Project , where user can Read articles and if want they can post articles , and have admin role.
+#### Technologies : 
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,firebase,mongodb,nodejs,expressj,)](https://skillicons.dev)
+
