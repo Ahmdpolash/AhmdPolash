@@ -24,9 +24,9 @@ I'm Polash Ahmed, a passionate frontend developer with a love for crafting seaml
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ahmdpolash&theme=shades-of-purple&card_width=870)](https://git.io/streak-stats)
 
-<div align='center'>
+<div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmdpolash&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmdpolash&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmdpolash&theme=algolia&width=400")
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmdpolash&theme=algolia&width=400")
 
 </div>
