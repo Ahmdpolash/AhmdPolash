@@ -19,9 +19,12 @@ I Specialize in creating attractive and user-friendly websites as a front-end de
 
 <p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" height="32" alt="Mongoose" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Framer_Motion-0085FF?logo=framer&logoColor=white" height="32" alt="Framer Motion" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="32" alt="Firebase" style="margin-right: 4px"></p>
 
-### 🚀Current Github Stats:
+## Current Stats
+## 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ahmdpolash&theme=shades-of-purple&card_width=870)](https://git.io/streak-stats)
+<p align="center"  width="100%">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Ahmdpolash&border_radius=0&theme=react&hide_border=true&background=000000&stroke=6cf2c0&fire=fddf67&sideLabels=6cf2c0&currStreakNum=6cf2c0&ring=6cf2c0&currStreakLabel=fddf67&sideNums=fddf67" />
+</p>
 
 <div>
 
