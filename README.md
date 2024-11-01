@@ -26,14 +26,6 @@ I Specialize in creating attractive and user-friendly websites as a front-end de
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Ahmdpolash&border_radius=0&theme=react&hide_border=true&background=000000&stroke=6cf2c0&fire=fddf67&sideLabels=6cf2c0&currStreakNum=6cf2c0&ring=6cf2c0&currStreakLabel=fddf67&sideNums=fddf67" />
 </p>
 
-<div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmdpolash&theme=algolia&width=435)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmdpolash&theme=algolia&width=435)
-
-</div>
-
-
 
 
 ### About My Pin Projects : 
