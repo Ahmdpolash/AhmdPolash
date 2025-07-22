@@ -28,20 +28,30 @@ I Specialize in creating attractive and user-friendly websites as a front-end de
 
 
 
-### About My Pin Projects : 
-#### House Service Agency - [Live link](https://bistro-boss-72c4d.web.app/)
-- This is House Service Agency Project , where user can book there any service and the agency will provide this service. here have many feature please see the live link
-#### Technologies : 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,firebase,mongodb,nodejs,expressj,)](https://skillicons.dev)
+### About My Pin Projects:
+
+#### LMS (Learning Management System) - [Live link](https://elearning-academy.vercel.app)
+A full-featured e-learning platform with user roles, course management, and modern UI/UX.
+
+#### Technologies:
+[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,redux,mongodb,nodejs,express)](https://skillicons.dev)
+
+---
+
+#### MyShop (Multi-vendor E-commerce) - [Live link](https://myshop-606ef.web.app/)
+A scalable e-commerce system supporting multiple vendors, product management, and secure authentication.
+
+#### Technologies:
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,firebase,mongodb,nodejs,express)](https://skillicons.dev)
 
 
-#### News Portal Website - [Live link]((https://newspaper-website-f1698.web.app/))
-- This is News Portal Project , where user can Read articles. here have normal article and premium article, and if user want they can post articles, and have admin role.
-#### Technologies : 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,firebase,mongodb,nodejs,expressj,)](https://skillicons.dev)
+### 📚 Currently Learning
 
-#### Bistro Boss - [Live link](([(https://bistro-boss-72c4d.web.app/)))
-- This is Bistro boss project where have many features like add to cart. and have admin role
-#### Technologies : 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,firebase,mongodb,nodejs,expressj,)](https://skillicons.dev)
+- 🔥 NestJs
+- 🧠 Advanced Next.js Patterns
+- 📦 Redux Toolkit + RTK Query
+- 💻 Docker 
+
+
+
 
