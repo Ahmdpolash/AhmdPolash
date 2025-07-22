@@ -10,7 +10,7 @@ I'm Polash Ahmed from Kurigram Zila, Currently I'm Studying on Diploma in Comput
 
 ### My Experience
 
-I Specialize in creating attractive and user-friendly websites as a front-end developer, mainly using the MERN stack. Currently, I'm diving into learning Next.js and Redux to improve my skills further. Feel free to explore my GitHub profile to see the projects I've been working on and how I'm pushing the boundaries of innovation in web development.
+I Specialize in creating attractive and user-friendly websites as a front-end developer, mainly using the MERN stack. Currently, I'm diving into learning Nestjs , Docker and GSAP to improve my skills further. Feel free to explore my GitHub profile to see the projects I've been working on and how I'm pushing the boundaries of innovation in web development.
 
 
 
