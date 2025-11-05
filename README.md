@@ -35,12 +35,15 @@ I Specialize in creating attractive and user-friendly websites as a front-end de
 </p>
 
 
-## Current Stats
-
-
-<p align="center"  width="100%">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Ahmdpolash&border_radius=0&theme=react&hide_border=true&background=000000&stroke=6cf2c0&fire=fddf67&sideLabels=6cf2c0&currStreakNum=6cf2c0&ring=6cf2c0&currStreakLabel=fddf67&sideNums=fddf67" />
-</p>
+<h3> 📊 GitHub Stats:</h3>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmdpolash&theme=2077" style="width:100%;" alt="GitHub Profile Details" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmdpolash&theme=2077" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmdpolash&theme=2077" width="48%" />
+  <br/>
+</div>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
 
