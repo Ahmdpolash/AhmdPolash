@@ -43,6 +43,7 @@ I Specialize in creating attractive and user-friendly websites as a front-end de
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmdpolash&theme=2077" width="48%" />
   <br/>
 </div>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
@@ -74,6 +75,22 @@ A scalable e-commerce system supporting multiple vendors, product management, an
 - 📦 Redux Toolkit + RTK Query
 - 💻 Docker 
 
+
+
+<picture>
+<source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+<source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+<img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
 
