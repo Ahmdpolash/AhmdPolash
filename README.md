@@ -39,7 +39,7 @@ I Specialize in creating attractive and user-friendly websites as a front-end de
 
 <div align="center">
 
-[![Polash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmdpolash&bg_color=000000&color=13d872&line=12d972&point=12d957&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Polash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmdpolash&bg_color=000000&color=14e1b8&line=12d997&point=12d9b1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
