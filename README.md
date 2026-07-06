@@ -2,7 +2,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Ahmdpolash&label=Profile%20views&color=0e75b6&style=flat)
 
 <h1 align='center'>Hi 👋, Iam Polash Ahmed  <br/> Frontend Developer</h1>
-<p align="center"><a href="ahmedpolash732@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/github.com/Ahmdpolash" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/linkedin.com/in/polashahmed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=61555489764134" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="center"><a href="mailto:ahmedpolash732@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Ahmdpolash" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/polashahmed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/profile.php?id=61555489764134" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 ### About Me
 
@@ -35,13 +35,21 @@ I Specialize in creating attractive and user-friendly websites as a front-end de
 </p>
 
 
-<h3> 📊 GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Stats</h3>
+
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmdpolash&theme=2077" style="width:100%;" alt="GitHub Profile Details" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmdpolash&theme=2077" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmdpolash&theme=2077" width="48%" />
-  <br/>
+
+[![Polash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmdpolash&bg_color=000000&color=13d872&line=12d972&point=12d957&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmdpolash&theme=2077" width="100%" alt="GitHub Profile Details"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmdpolash&theme=2077" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmdpolash&theme=2077" width="48%" />
+
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
