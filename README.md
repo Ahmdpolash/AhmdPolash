@@ -1,4 +1,4 @@
-![Alt text](https://raw.githubusercontent.com/Ahmdpolash/AhmdPolash/main/assest/github-header-image.png)
+![Alt text](https://raw.githubusercontent.com/Ahmdpolash/AhmdPolash/main/assest/polash-ahmed-banner.png)
 ![Profile views](https://komarev.com/ghpvc/?username=Ahmdpolash&label=Profile%20views&color=0e75b6&style=flat)
 
 <h1 align='center'>Hi 👋, Iam Polash Ahmed  <br/> Frontend Developer</h1>
