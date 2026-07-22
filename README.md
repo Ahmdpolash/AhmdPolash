@@ -1,17 +1,18 @@
 ![Alt text](https://raw.githubusercontent.com/Ahmdpolash/AhmdPolash/main/assest/polash-ahmed-banner.png)
 ![Profile views](https://komarev.com/ghpvc/?username=Ahmdpolash&label=Profile%20views&color=0e75b6&style=flat)
 
-<h1 align='center'>Hi 👋, Iam Polash Ahmed  <br/> Frontend Developer</h1>
+<h1 align='center'>Hi 👋, I'm Polash Ahmed <br/> Full Stack Developer</h1>
 <p align="center"><a href="mailto:ahmedpolash732@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Ahmdpolash" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/polashahmed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/profile.php?id=61555489764134" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-### About Me
+## 👨‍💻 About Me
 
-I'm Polash Ahmed from Kurigram Zila, Currently I'm Studying on Diploma in Computer Engineering at Kurigram Polytechnic Institute,Kurigram. I'm passionate about becoming a full-Stack developer and actively working towards it.
+Hi, I'm **Polash Ahmed**, a Full Stack Developer from Bangladesh.
 
-### My Experience
+I build modern, scalable, and production-ready web applications using React, Next.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, Docker, and AWS.
 
-I Specialize in creating attractive and user-friendly websites as a front-end developer, mainly using the MERN stack. Currently, I'm diving into learning Nestjs , Docker and GSAP to improve my skills further. Feel free to explore my GitHub profile to see the projects I've been working on and how I'm pushing the boundaries of innovation in web development.
+Currently, I'm working as a **Full Stack Developer at SM Technology**, where I develop responsive user interfaces, RESTful APIs, cloud-based applications, and scalable backend systems. I enjoy solving complex problems, writing clean code, and building products that deliver great user experiences.
 
+I'm passionate about building reliable software, solving real-world problems, and continuously exploring modern technologies, scalable architectures, and engineering best practices.
 
 
 
@@ -32,6 +33,10 @@ I Specialize in creating attractive and user-friendly websites as a front-end de
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="32" alt="Express.js" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" height="32" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="32" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" height="32" alt="Vercel" />
 </p>
 
 
@@ -52,6 +57,9 @@ I Specialize in creating attractive and user-friendly websites as a front-end de
 
 </div>
 
+<p align="center">
+   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmdpolash&theme=github-dark&hide_border=true"/>
+</p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
@@ -59,31 +67,40 @@ I Specialize in creating attractive and user-friendly websites as a front-end de
 
 
 
-### About My Pin Projects:
+## 🚀 Featured Projects
 
-#### LMS (Learning Management System) - [Live link](https://elearning-academy.vercel.app)
-A full-featured e-learning platform with user roles, course management, and modern UI/UX.
+### 🎓 LMS – Learning Management System
+🔗 **Live Demo:** https://elearning-academy.vercel.app
 
-#### Technologies:
-[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,redux,mongodb,nodejs,express)](https://skillicons.dev)
+A modern Learning Management System that enables students and instructors to manage courses, lessons, authentication, and learning workflows through a responsive and intuitive interface.
+
+**Tech Stack**
+
+[![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,redux,nodejs,express,mongodb,postgres)](https://skillicons.dev)
 
 ---
 
-#### MyShop (Multi-vendor E-commerce) - [Live link](https://myshop-606ef.web.app/)
-A scalable e-commerce system supporting multiple vendors, product management, and secure authentication.
+### 🛒 MyShop – Multi-Vendor E-commerce Platform
+🔗 **Live Demo:** https://myshop-606ef.web.app/
 
-#### Technologies:
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,firebase,mongodb,nodejs,express)](https://skillicons.dev)
+A scalable multi-vendor e-commerce platform featuring secure authentication, vendor dashboards, product management, order processing, and a responsive shopping experience.
 
+**Tech Stack**
 
-### 📚 Currently Learning
-
-- 🔥 NestJs
-- 🧠 Advanced Next.js Patterns
-- 📦 Redux Toolkit + RTK Query
-- 💻 Docker 
+[![Tech Stack](https://skillicons.dev/icons?i=react,typescript,tailwind,firebase,nodejs,express,mongodb)](https://skillicons.dev)
 
 
+## 🌱 Currently Exploring
 
+- NestJS
+- AWS Services
+- Docker & Containerization
+- System Design
+- Scalable Backend Architecture
+
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to connect or explore my repositories.
 
 
